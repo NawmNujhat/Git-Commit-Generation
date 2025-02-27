@@ -1,4 +1,4 @@
-# Team 3
+# Automated Commit Generation
 Group project (Team 3) for CS4570 Machine Learning for Software Engineering. This repository serves as a basis for research into prompt engineering for automated commit message generation. 
 
 ## Requirements
