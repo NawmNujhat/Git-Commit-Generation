@@ -143,3 +143,4 @@ Run `run_similar_search.py` to find similar commits as few shot examples for sam
 ```bash
 python src/few_shot/run_similar_search.py
 ```# Git-Commit-Generation
+# Git-Commit-Generation
