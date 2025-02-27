@@ -142,4 +142,4 @@ python src/prepare_input.py
 Run `run_similar_search.py` to find similar commits as few shot examples for samples in the dataset. Warning: this script will download full repositories to find similar commits and so will usage a large amount of storage.
 ```bash
 python src/few_shot/run_similar_search.py
-```
+```# Git-Commit-Generation
